@@ -13,7 +13,7 @@
       "status": "Preview"
     }
   },
-  "host": "api.almabaseapp.com",
+  "host": "dev-02.almabase-beta.com",
   "produces": [
     "application/json"
   ],
