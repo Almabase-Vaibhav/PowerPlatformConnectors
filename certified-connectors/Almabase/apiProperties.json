@@ -33,13 +33,6 @@
     "stackOwner": "Almabase, Inc.",
     "policyTemplateInstances": [
       {
-        "templateId": "dynamichosturl",
-        "parameters": {
-          "x-ms-apimTemplateParameter.urlTemplate": "@connectionParameters('domain_url')/api/"
-        },
-        "title": "Route to site domain"
-      },
-      {
         "templateId": "routerequesttoendpoint",
         "title": "Redirect to Webhook Management API to create customform webhook",
         "parameters": {
